@@ -1,3 +1,6 @@
+# Regular Expression for extracting Phone and Email from given data.
+# regex means regular expression
+
 import re, pyperclip
 
 

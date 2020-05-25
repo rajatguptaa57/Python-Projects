@@ -1,3 +1,5 @@
+# Script for Searching a Location from Google Maps from Terminal
+
 import webbrowser, sys, pyperclip
 
 
